@@ -6,10 +6,10 @@ I’m a Frontend & Mobile Developer specializing in React, React Native, JavaScr
 
 🔧 Skills:
 
-Mobile Development: React Native, Expo
-Web Development: React, WordPress, Shopify
-Backend Services: Firebase, Firestore
-Programming Languages: JavaScript, TypeScript
+Mobile Development: React Native, Expo <br>
+Web Development: React, WordPress, Shopify <br>
+Backend Services: Firebase, Firestore <br>
+Programming Languages: JavaScript, TypeScript <br>
 
 <h3>Here are some of the tools i have learnt and used:</h3>
 <p align="left">
