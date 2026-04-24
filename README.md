@@ -11,7 +11,7 @@ Web Development: React, WordPress, Shopify <br>
 Backend Services: Firebase, Firestore <br>
 Programming Languages: JavaScript, TypeScript <br>
 
-<h3>Here are some of the tools i have learnt and used:</h3>
+<!-- <h3>Here are some of the tools i have learnt and used:</h3>
 <p align="left" style="display:flex; gap:10>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnavigation/reactnavigation-original.svg" width="45" height="45"/>
@@ -25,7 +25,7 @@ Programming Languages: JavaScript, TypeScript <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original-wordmark.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" width="45" height="45"/>
-</p>
+</p> -->
 <h3>Here are some of the tools I have learnt and used:</h3>
 
 <table>
